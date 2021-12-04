@@ -2,3 +2,6 @@
 
 # Class files
 *.class
+
+# Test files
+test*
